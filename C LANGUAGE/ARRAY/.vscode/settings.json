@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "TRAVERSAL.C": "cpp",
+        "INSERTION.C": "cpp",
+        "TRAVERSAL .C": "cpp",
+        "INSERTION .C": "cpp",
+        "INSERTION  copy.C": "cpp",
+        "DELETION.C": "cpp",
+        "SEARCH.C": "cpp"
+    }
+}
